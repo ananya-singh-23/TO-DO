@@ -28,11 +28,6 @@ A clean, minimalist, and focused workspace designed to help you manage your dail
 
 To get a local copy up and running, follow these simple steps:
 
-### Prerequisites
-
-Make sure you have Node.js installed on your machine.
-- [Download Node.js](https://nodejs.org/)
-
 ### Installation
 
 1. **Clone the repository:**
@@ -52,7 +47,7 @@ Make sure you have Node.js installed on your machine.
   yarn dev
 5. Open http://localhost:3000 (or the port specified in your terminal) in your browser to see the application running.
 
-**🚀 Deployment **
+**🚀 Deployment**
 This project is configured for easy deployment on Vercel:
 
 *Create a free account on Vercel.
