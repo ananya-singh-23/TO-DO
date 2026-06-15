@@ -37,17 +37,17 @@ To get a local copy up and running, follow these simple steps:
   cd YOUR_REPO_NAME
 3.**Install the dependencies:**
   npm install
-  # or
+   or
   yarn install
-  # or
+   or
   pnpm install
 4.**Run the development server:**
   npm run dev
-  # or
+   or
   yarn dev
 5. Open http://localhost:3000 (or the port specified in your terminal) in your browser to see the application running.
 
-**🚀 Deployment**
+#**🚀 Deployment*
 This project is configured for easy deployment on Vercel:
 
 *Create a free account on Vercel.
@@ -56,10 +56,10 @@ This project is configured for easy deployment on Vercel:
 
 *Vercel will automatically detect the framework and deploy your application.
 
-**📝 License**
+#**📝 License**
 Distributed under the MIT License. See LICENSE for more information.
 
-**🤝 Contributing**
+#**🤝 Contributing**
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1.Fork the Project
