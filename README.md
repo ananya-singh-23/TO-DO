@@ -1,2 +1,4 @@
 # TO-DO
-A javascript project made tp practice array and loop concept and clear the concept in real world application
+A javascript project made to practice array and loop concept and clear the concept in real world application.
+
+
